@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "5YfTrxGxtWnm3deaUB1momTsZKywguxECxsoEitQsub4",
+  "symbol": "USDC",
+  "name": "USD Coin",
+  "decimals": 6,
+  "logoURI": "https://cryptach.org/crypto-logo/usd-coin-usdc-logo.png",
+  "tags": ["stablecoin"],
+  "extensions": {
+    "website": "https://www.centre.io/usdc",
+    "coingeckoId": "usd-coin"
+  }
+}
